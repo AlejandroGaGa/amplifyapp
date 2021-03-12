@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
+        <h1>Mi app de react implementada en la nube de AWS con conexión a Github :)</h1>
       </header>
     </div>
   );
